@@ -1,3 +1,4 @@
+/* custom czcionki */
 .roboto-regular-italic {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -21,12 +22,30 @@
   font-weight: 700;
   font-style: italic;
 }
-
+/* ogolniki */
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
+
+img {
+  display: block;
+}
+.conteiner {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
+}
+
+.head-bar {
+  border-bottom: 1px solid #e7e9fc;
+}
+/* header */
+.head-bar .conteiner {
+  display: flex;
+}
+
 /* nawigacja */
 .logo {
   font-family: "Raleway", sans-serif;
