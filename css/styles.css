@@ -233,6 +233,10 @@ img {
 }
 
 /* sekcja czwarta */
+.section-fourth {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 
 .section-fourth-maintitle {
   font-size: 36px;
