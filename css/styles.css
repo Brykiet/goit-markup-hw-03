@@ -281,6 +281,7 @@ img {
 
 .foot {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .foot .logo {
@@ -291,6 +292,8 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .foot .accent-studio {
@@ -301,4 +304,5 @@ img {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
