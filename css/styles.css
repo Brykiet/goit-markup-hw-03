@@ -114,6 +114,7 @@ img {
 /* pierwsza sekcja */
 .section-first {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .section-first .front {
@@ -122,6 +123,7 @@ img {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  max-width: 496px;
 }
 
 .section-first .click {
@@ -133,6 +135,11 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 
 .section-first .click:hover,
